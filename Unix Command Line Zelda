@@ -6,8 +6,8 @@
       $ touch ijazah.txt
       $ nano ijazah.txt
       $ cat ijazah.txt
-      $ touch portofolio.txt
-      $ nano portofolio.txt
+      $ touch portfolio.txt
+      $ nano portfolio.txt
 
 4. $ cd ..
 5. $ cd kerja
@@ -16,4 +16,4 @@
        $ cat cv.txt
 6. $ cd ..
    $ cd sekolah
-   $ mv portofolio.txt ../kerja
+   $ mv portfolio.txt ../kerja
